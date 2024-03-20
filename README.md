@@ -52,8 +52,12 @@ Como você faria para descobrir, usando apenas duas idas até uma das salas das 
 RESPOSTA:
 ````
 Enumero os interruptores 1 a 3 da esquerda para direita.
-Ligo o interruptor 1 e espero alguns minutos, apago o interruptor 1 e ligo o interruptor 2. Vou até a primeira sala e confiro se está acessa, se estiver, então é o interruptor 2. Caso não esteja acessa, confiro se a lamapada está quente, estando quente é o interruptor 1. Se não estiver acessa e fria é o interruptor 3.
-Após descobrir da sala 1, repito o processo com os dois interrutores restantes, ligo um deles e confiro na sala 2, se estiver acesso é esse interruptor, caso contrario é o outro.
+Ligo o interruptor 1 e espero alguns minutos, apago o interruptor 1 e ligo o interruptor 2.
+Vou até a primeira sala e confiro se está acessa, se estiver, então é o interruptor 2.
+Caso não esteja acessa, confiro se a lamapada está quente, estando quente é o interruptor 1. Se não estiver acessa e fria é o interruptor 3.
+Após descobrir da sala 1, repito o processo com os dois interrutores restantes, ligo um deles e confiro na sala 2,
+se estiver acesso é esse interruptor, caso contrario é o outro.
+
 ````
 
 
