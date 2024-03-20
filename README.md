@@ -1,4 +1,4 @@
-# Testes Target Sistemas
+# Testes Target Sistemas - RESPOSTAS
 
 1) Observe o trecho de código abaixo:
 
@@ -17,3 +17,5 @@ SOMA = SOMA + K;
 imprimir(SOMA);
 
 Ao final do processamento, qual será o valor da variável SOMA?
+[RESPOSTA QUESTÃO 1:](https://github.com/thfreitas11/TestesTargetSistemas/blob/main/TesteSoma/Program.cs) SOMA = 91
+
